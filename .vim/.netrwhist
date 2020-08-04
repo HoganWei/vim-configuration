@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/hwei/sw/hwei_sh-swbuild02_9062/bbic5/main2/macfw/hal'
+let g:netrw_dirhist_2='/home/hwei/sw/hwei_sh-swbuild02_9062/bbic5/main2/drivers/pearl/sid'
+let g:netrw_dirhist_3='/home/hwei/sw/hwei_sh-swbuild02_9062/bbic5/rel/rel_38_5_9'
+let g:netrw_dirhist_4='/home/hwei/sw/hwei_sh-swbuild02_9062/bbic5/main2/buildroot/package/qcsapi/qcsapi-1.0.1'
